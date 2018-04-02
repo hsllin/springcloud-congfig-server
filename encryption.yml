@@ -1,0 +1,4 @@
+spring:
+  datasource:
+  username: lin
+  password: ab0b1ab582649ed049bd2104a36f70e02c1b956933f7ea2fc0c9d9d1a90332d3
